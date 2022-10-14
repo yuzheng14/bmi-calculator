@@ -85,7 +85,7 @@ export default function App() {
                                             height={info.height}
                                             date={info.date}
                                             bmi={info.bmi}
-                                            delecteCard={handleDelete}
+                                            deleteCard={handleDelete}
                                         />
                                     ))}
                                 </>
